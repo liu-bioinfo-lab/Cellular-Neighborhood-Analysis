@@ -1,0 +1,9 @@
+torch_geometric
+networkx
+scipy
+shapely
+scikit-learn
+python-louvain
+yellowbrick
+statsmodels
+pydot
